@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <VKO_BlockAlco>
+            <active>true</active>
+            <codePool>local</codePool>
+        </VKO_BlockAlco>
+    </modules>
+</config>
